@@ -1,5 +1,5 @@
 # Team-Profile-Generator
-[Link to my project]()
+[Link to my project](https://github.com/M5Justin/Team-Profile-Generator)
 
 ## Table of Contents
 - [Description](#description)
@@ -10,5 +10,5 @@
     Also, the inquirer and jest packages will be used.
 
 ## Visuals
-    ![Website preview](public/assets/images/localhost_3001_.png)
+    ![Website preview](./Assets/10-object-oriented-programming-homework-demo.png)
 
